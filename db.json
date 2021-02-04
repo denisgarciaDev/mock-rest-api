@@ -73,31 +73,31 @@
    "property_types": [
       {
          "id": "1",
-         "label":"Carro"
+         "name":"Carro"
       },
       {
          "id": "2",
-         "label":"Moto"
+         "name":"Moto"
       },
       {
          "id": "3",
-         "label":"Caminhonete"
+         "name":"Caminhonete"
       },
       {
          "id": "4",
-         "label":"Caminhão"
+         "name":"Caminhão"
       },
       {
          "id": "5",
-         "label":"Carreta"
+         "name":"Carreta"
       },
       {
          "id": "6",
-         "label":"Utilitário"
+         "name":"Utilitário"
       },
       {
          "id": "9999",
-         "label":"Outros"
+         "name":"Outros"
       }
    ]
 }
