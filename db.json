@@ -1,12 +1,4 @@
 {
-   "user_types": [],
-   "users": [],
-   "alert_types": [
-      {
-         "id": "1",
-         "label":"Furto"
-      }
-   ],
    "alerts":[
       {
          "id":"1",
@@ -61,23 +53,6 @@
          "title":"Alert list 009",
          "description":"Mussum Ipsum, cacilds vidis litro abertis. Viva Forevis aptent taciti sociosqu ad litora torquent. Mé faiz elementum girarzis, nisi eros vermeio. Delegadis gente finis, bibendum egestas augue arcu ut est. Suco de cevadiss deixa as pessoas mais interessantis.",
          "picture":"https://picsum.photos/75/75"
-      }
-   ],
-   "alert_notification_types": [
-      {
-         "id": "1",
-         "label":"veículo avistado"
-      }
-   ],
-   "alert_notification": [
-      {
-         "id": "1",
-         "alert_id": "1",
-         "type": "1",
-         "user_id": "1",
-         "datetime": "2021-01-01T00:00:00",
-         "latitude": "-12893.893849",
-         "longitude": "-12893.893849"
       }
    ],
    "properties": [
